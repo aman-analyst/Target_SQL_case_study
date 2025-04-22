@@ -3,7 +3,6 @@
 ## Project Overview
 This case study focuses on analyzing Target's business operations using SQL to uncover insights into sales performance, customer behavior, inventory management, and marketing effectiveness. The analysis uses historical data to help improve decision-making, optimize inventory, enhance customer engagement, and drive revenue growth.
 
-Project link: [Target SQL Business Case Study](https://github.com/DurgaPrasadsampatirao/Target_SQL_Business-Case-Study)
 
 ---
 
